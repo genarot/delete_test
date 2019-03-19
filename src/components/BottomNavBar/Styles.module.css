@@ -1,0 +1,12 @@
+.navLink {
+    padding: '10px 15px';
+    text-decoration: none;
+}
+
+.bottomAppBar {
+    background-color:  #007bff !important;
+}
+
+.buttonNav { 
+    color: white;
+}
